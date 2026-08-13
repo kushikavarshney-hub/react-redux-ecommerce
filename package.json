@@ -1,0 +1,22 @@
+{
+    "name": "enviroment-variable-demo",
+    "version": "1.0.0",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "dependencies": {
+        "@reduxjs/toolkit": "^2.12.0",
+        "@vitejs/plugin-react": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "react-icons": "^5.7.0",
+        "react-redux": "^9.3.0",
+        "react-router-dom": "^7.18.2",
+        "react-toastify": "^11.1.0",
+        "vite": "latest"
+    }
+}
